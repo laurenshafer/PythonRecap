@@ -1,1 +1,1 @@
-.venv/
+myvenv/ ##the slash says to ignore everything in the virtual environment
